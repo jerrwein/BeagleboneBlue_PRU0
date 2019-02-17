@@ -1,6 +1,6 @@
 
 # The top-most name
-BASE_NAME := dsm2_decoder
+BASE_NAME := dsmx_decoder
 
 # The all-inclusive binary to be run on host
 HOST_BIN := $(BASE_NAME)
